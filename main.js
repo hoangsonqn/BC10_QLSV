@@ -11,6 +11,10 @@ var dssv = new DanhSachSinhVien();
 dssv.list;
 
 var validation = new Validation();
+
+function addUser(){
+  console.log("Đây là add user đã làm xong");
+}
 /**call back funtion: tham số của 1 hàm
 là 1 hàm khác
 */
