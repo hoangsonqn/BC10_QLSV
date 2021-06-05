@@ -15,6 +15,10 @@ var validation = new Validation();
 là 1 hàm khác
 */
 
+function addUser(){
+  console.log("ham cua son2")
+}
+
 //lấy data từ localstorage để in ra màn hình ngay lúc load trang
 getLocalStorage();
 
